@@ -6,5 +6,8 @@
 	},
 	"description":"MongoDB Storage for ezcWorkflow",
 	"name":"contatta/mongoworkflow",
-	"type":"library"
+	"type":"library",
+	"require":{
+		"php":">=5.3.0"
+	}
 }
